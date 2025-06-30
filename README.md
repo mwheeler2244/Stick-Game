@@ -2,7 +2,7 @@
 
 A fun and engaging stick hero game built with Next.js, TypeScript, and modern React patterns.
 
-https://stick-game-zeta.vercel.app/
+👉 [Launch the Live App] (https://stick-game-zeta.vercel.app/)
 
 ## 🎮 Features
 
