@@ -4,6 +4,8 @@ A fun and engaging stick hero game built with Next.js, TypeScript, and modern Re
 
 🚀 [**Play the Live Game**](https://stick-game-zeta.vercel.app/)
 
+![Stick Hero Game Screenshot](./ss.png)
+
 ## 🎮 Features
 
 - **Smooth Canvas Animation**: 60fps game loop with optimized rendering
